@@ -2,6 +2,7 @@
 
 # BEGIN
 require 'forwardable'
+require 'uri'
 
 class Url
   attr_accessor :url
